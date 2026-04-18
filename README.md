@@ -12,8 +12,4 @@ An intelligent tool designed to bridge the gap between job seekers and Applicant
 * **LLM:** Google Gemini Pro API
 * **Environment:** Google Colab / Local Python
 
-## 🚀 How to Use
-1. Clone the repository.
-2. Install dependencies: `pip install -r requirements.txt`
-3. Add your API Key in the environment settings.
-4. Run `app.py` and upload your resume!
+
