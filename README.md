@@ -12,4 +12,7 @@ An intelligent tool designed to bridge the gap between job seekers and Applicant
 * **LLM:** Google Gemini Pro API
 * **Environment:** Google Colab / Local Python
 
+##Click to view website
+https://github.com/shrutimis-hra/Resume-Optimiser-AI/blob/main/Quick%20%20review/1.jpeg
+
 
